@@ -40,4 +40,4 @@ This project is under license from [MIT](https://en.wikipedia.org/wiki/MIT_Licen
 
 ---
 
-with ❤ - [MouraCamila](https://github.com/mouracamila)
+Template from RocketSeat.
